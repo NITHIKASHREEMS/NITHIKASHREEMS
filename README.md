@@ -589,3 +589,97 @@ Published research paper in an IEEE International Conference, contributing to pr
 🚀 Passionate about AI, Software Engineering, Full Stack Development and Sustainable Technology
 
 ---
+<!-- ========================================================== -->
+<!--                     CONNECT WITH ME                       -->
+<!-- ========================================================== -->
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nithika7/">
+<img src="https://img.shields.io/badge/LinkedIn-Nithika%20Shree%20M%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nithikashreesekar266@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NITHIKASHREEMS">
+<img src="https://img.shields.io/badge/GitHub-NITHIKASHREEMS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/NITHIKASHREEMS/NITHIKASHREEMS/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</p>
+
+> **Note:** The snake animation requires a GitHub Actions workflow. Configure it once, and it will update automatically.
+
+---
+
+# 💭 Developer Philosophy
+
+> **"I believe technology should solve meaningful problems, empower people, and create a lasting positive impact on society."**
+
+---
+
+# 🌱 Beyond Coding
+
+Outside of software development, I actively participate in:
+
+- 🌍 IEEE Technical Communities
+- 🤝 Student Leadership & Volunteering
+- 💡 Innovation Challenges & Hackathons
+- 📚 Continuous Learning through Certifications
+- 🌱 Sustainability & Social Impact Initiatives
+
+These experiences have strengthened my leadership, collaboration, communication, and problem-solving skills while helping me grow as both an engineer and an individual.
+
+---
+
+# 📈 Profile Overview
+
+```text
+🎓 B.Tech Information Technology
+🏫 Sri Sairam Engineering College
+
+📊 CGPA: 9.10 / 10
+
+🤖 AI Engineer Intern
+🧠 Deep Learning Developer
+
+📄 IEEE Research Author
+
+🌱 Creator of ECOHARVEST
+
+🏆 National-Level Winner
+
+🚀 Passionate about AI, Full Stack Development,
+Cloud Computing & Sustainable Technology
+```
+
+---
+
+<h2 align="center">
+⭐ Thank you for visiting my GitHub Profile ⭐
+</h2>
+
+<p align="center">
+
+<i>"Building intelligent software today for a smarter and more sustainable tomorrow."</i>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+
+</p>

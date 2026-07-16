@@ -377,3 +377,215 @@ A digital civic reporting platform enabling citizens to report public issues wit
 > **"Continuous learning, practical innovation, and meaningful impact drive every project I build."**
 
 ---
+<!-- ========================================================== -->
+<!--              ACHIEVEMENTS • CERTIFICATIONS                -->
+<!--              GITHUB ANALYTICS • LEADERSHIP                -->
+<!-- ========================================================== -->
+
+# 🏆 Achievements & Recognitions
+
+<table>
+<tr>
+<td width="50%">
+
+### 🥇 National Achievements
+
+- 🏆 Winner – **MyGov & MeitY**  
+  *Transforming Waste to Art*
+
+- 🏆 Winner – **MyGov & NCB**  
+  *Fight Against Drugs with MANAS Helpline*
+
+- 🏅 STEM Project Funding Recipient – **$1299**
+
+- 🏅 IEEE YESIST12 2026 – Innovation Challenge Finalist
+
+</td>
+
+<td width="50%">
+
+### 🚀 Hackathons & Competitions
+
+- 🏅 Finalist – IIT Tirupati **Clear Skies Hackathon**
+
+- 🏅 Smart India Hackathon Applicant
+
+- 🏅 Hult Prize 2026 – National Level Applicant
+
+- 🏅 ISRO Bharatiya Antariksh Hackathon Participant
+
+- 🏅 Hack4Purpose – Social Impact Hackathon Participant
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📄 Research
+
+### IEEE Conference Publication
+
+Published research paper in an IEEE International Conference, contributing to practical engineering solutions through applied research and innovation.
+
+---
+
+# 🎓 Certifications
+
+## IBM
+
+- Generative AI using Watson
+
+---
+
+## Oracle University
+
+- Java Programming
+- AI with Machine Learning in Java
+
+---
+
+## Cisco Networking Academy
+
+- Introduction to Data Science
+- Networking Basics
+- Python Essentials
+- Introduction to Modern AI
+- Apply AI: Analyze Customer Reviews
+- CCNA: Introduction to Networks
+- CCNA: Switching, Routing and Wireless Essentials
+- CCNA: Enterprise Networking, Security and Automation
+
+---
+
+## NPTEL (IIT)
+
+- Python Programming
+- Java Programming
+- Software Testing
+- Deep Learning
+- Digital Image Processing
+- Cloud Computing
+- Compiler Design
+- Social Networks
+
+---
+
+## GUVI
+
+- Generative AI & RAG-based AI Systems
+
+---
+
+## Spoken Tutorial – IIT Bombay
+
+- C Programming
+- Scilab
+
+---
+
+# 🌍 Leadership & Volunteering
+
+| Position | Organization |
+|-----------|--------------|
+| Campus Ambassador | IEEE AICSSYC 2024 |
+| Campus Ambassador | IEEE CS SYP High Impact Zonal Events |
+| Designer | IEEE CS SYP High Impact Zonal Events |
+| Campus Ambassador | IEEE CSIS |
+| Student Lead | Global Emerging Leadership Program (GELP) |
+| Design Lead | IEEE YESIST12 |
+| Web Master | IEEE Industry Applications Society |
+| Magic Member | IEEE Industry Applications Society |
+| Magic Member (Guide) | IEEE Computer Society |
+| Best Student Volunteer Award | SEC IEEE Student Branch |
+| Ranger | Sairam District Scouts |
+| Active Member | Unnat Bharat Abhiyan |
+| Change Maker | MyGov |
+| Pavilion Leader | Jamboree 2025 |
+| Event Coordinator | HYPERNOVA 2025 IBM Hackathon |
+| NPTEL STAR – Motivated Learner |
+| NPTEL STAR – Discipline Star |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NITHIKASHREEMS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHIKASHREEMS&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=NITHIKASHREEMS&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NITHIKASHREEMS&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NITHIKASHREEMS&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NITHIKASHREEMS&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NITHIKASHREEMS&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NITHIKASHREEMS&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NITHIKASHREEMS&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📌 Highlights
+
+✨ AI Engineer Intern at National Informatics Centre (NIC)
+
+🧠 Deep Learning Developer Intern at MSME Bhavan CITD Extension Centre
+
+📄 IEEE Research Author
+
+🏆 National-Level Winner – MyGov & MeitY
+
+🏆 National-Level Winner – MyGov & NCB
+
+🌍 IEEE Student Leader & Campus Ambassador
+
+🎯 CGPA: **9.10 / 10**
+
+🚀 Passionate about AI, Software Engineering, Full Stack Development and Sustainable Technology
+
+---

@@ -145,3 +145,235 @@ I believe in combining technology, creativity, and continuous learning to build 
 > **"Transforming ideas into intelligent software solutions that create meaningful impact."**
 
 ---
+<!-- ========================================================== -->
+<!--                  TECH STACK & EXPERIENCE                   -->
+<!-- ========================================================== -->
+
+# 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<p align="center">
+Java • Python • C (Basic) • JavaScript • SQL
+</p>
+
+---
+
+### ⚙️ Core Computer Science
+
+<p align="center">
+
+`Data Structures & Algorithms`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Object-Oriented Programming`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Database Management Systems`
+
+<br><br>
+
+`Operating Systems`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Agile Methodology`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Cloud Computing`
+
+<br><br>
+
+`Computer Networks`
+
+</p>
+
+---
+
+### 🚀 Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tensorflow,pytorch,firebase" />
+</p>
+
+<p align="center">
+
+React • TensorFlow • PyTorch • Pandas • NumPy • Keras • OpenCV
+
+</p>
+
+---
+
+### 📱 Development & Technical Skills
+
+<p align="center">
+
+🧠 Motion Gesture Recognition
+
+🤖 Neural Networks
+
+📱 React Native Development
+
+💡 Problem Solving
+
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,figma,postgres,firebase" />
+</p>
+
+<p align="center">
+
+GitHub • Hugging Face • Figma • PostgreSQL • Expo • Firebase
+
+</p>
+
+---
+
+# 💼 Professional Experience
+
+## 🤖 AI Engineer Intern
+
+### National Informatics Centre (NIC), Rajaji Bhavan
+
+**Technologies**
+
+`Python`
+`Artificial Intelligence`
+`Machine Learning`
+`Data Analysis`
+
+### Responsibilities
+
+- Developed a **Threshold-Based Anomaly Detection in CPU Utilization Metrics** system for real-time CPU monitoring.
+- Implemented threshold-based techniques to identify abnormal CPU usage patterns.
+- Performed data preprocessing, feature analysis, and anomaly detection.
+- Designed an alert mechanism for monitoring abnormal CPU utilization.
+- Worked with AI and ML technologies to improve monitoring efficiency.
+
+---
+
+## 🧠 Deep Learning Developer Intern
+
+### MSME Bhavan CITD Extension Centre
+
+**Technologies**
+
+`Python`
+`TensorFlow`
+`Deep Learning`
+
+### Responsibilities
+
+- Built and optimized deep learning models for practical applications.
+- Performed data preprocessing and model evaluation.
+- Implemented machine learning pipelines for automation.
+- Gained practical experience with TensorFlow and Python-based AI development.
+
+---
+
+# 🚀 Featured Projects
+
+## 🌱 ECOHARVEST
+
+### Circular Economy–Driven Organic Waste Management System
+
+**Description**
+
+A sustainable platform that processes organic and agricultural waste into high-quality fertilizer using AI-assisted recommendations and smart waste management.
+
+### Tech Stack
+
+`React Native`
+
+`Python (Machine Learning)`
+
+`IoT Sensors`
+
+`Firebase`
+
+`Web Dashboard`
+
+`Mapbox`
+
+`Expo`
+
+`Leaflet`
+
+### Key Features
+
+- Smart waste collection
+- Organic fertilizer generation
+- AI-assisted recommendations
+- Sustainable farming support
+- Data-driven waste management
+
+---
+
+## 🏙 ZIVIX – Civic Reporting System
+
+### Smart Citizen Engagement Platform
+
+**Description**
+
+A digital civic reporting platform enabling citizens to report public issues with transparency, real-time tracking, and improved communication between citizens and authorities.
+
+### Tech Stack
+
+`Node.js`
+
+`React.js`
+
+`PostgreSQL`
+
+`Gemini API`
+
+`Mapbox`
+
+`Leaflet`
+
+`Web Dashboard`
+
+`Workbox`
+
+### Key Features
+
+- Civic issue reporting
+- Live status tracking
+- Interactive maps
+- AI-assisted reporting
+- Transparent communication
+
+---
+
+# 🎯 Areas of Interest
+
+<div align="center">
+
+| Artificial Intelligence | Software Engineering | Full Stack Development |
+|:-----------------------:|:-------------------:|:----------------------:|
+| Cloud Computing | Machine Learning | Deep Learning |
+| Computer Vision | React Native | Sustainable Technology |
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+- Advanced Machine Learning
+- Generative AI
+- Cloud Technologies
+- React Native
+- System Design
+- Scalable Software Development
+
+---
+
+> **"Continuous learning, practical innovation, and meaningful impact drive every project I build."**
+
+---

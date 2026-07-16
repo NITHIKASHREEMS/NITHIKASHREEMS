@@ -153,3 +153,248 @@ Published IEEE research project focusing on smart automation and IoT.
 > **"I enjoy transforming innovative ideas into impactful software solutions."**
 
 ---
+
+<!-- ========================================================= -->
+<!--                    PART 2                                 -->
+<!--         Skills • Experience • Projects • Awards           -->
+<!-- ========================================================= -->
+
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,sql" />
+</p>
+
+---
+
+## ⚛️ Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+---
+
+## 🔥 Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<p align="center">
+
+Machine Learning • Deep Learning • CNN • Regression • Random Forest • Computer Vision • Data Analysis
+
+</p>
+
+---
+
+## ☁️ Cloud & Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,aws" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" />
+</p>
+
+---
+
+# 💼 Professional Experience
+
+## 🤖 AI Engineer Intern
+**National Informatics Centre (NIC)**
+
+📍 Chennai, India
+
+**Highlights**
+
+- Developed AI-based CPU anomaly detection models.
+- Built supervised machine learning pipelines.
+- Performed feature engineering and preprocessing.
+- Designed Flask-based monitoring applications.
+- Worked on threshold-based anomaly detection.
+
+---
+
+## 🧠 Deep Learning Developer Intern
+
+**MSME Technology Development Centre**
+
+**Highlights**
+
+- Developed deep learning models.
+- Implemented CNN architectures.
+- Worked on image processing.
+- Built gesture recognition applications.
+- Explored transfer learning techniques.
+
+---
+
+# 🚀 Featured Projects
+
+## 🌱 ECOHARVEST
+
+### Smart Organic Waste Management Platform
+
+> AI + IoT + React Native + Firebase
+
+### Highlights
+
+- Organic waste collection platform
+- AI-based enzyme recommendation
+- Smart logistics tracking
+- Farmer payment management
+- Sustainable fertilizer production
+- SDG-driven solution
+
+**Tech Used**
+
+`React Native`
+`Firebase`
+`Machine Learning`
+`Python`
+`Mapbox`
+
+---
+
+## 🤖 Threshold Based CPU Anomaly Detection
+
+Machine learning solution that detects unusual CPU utilization patterns.
+
+**Tech**
+
+`Python`
+`Flask`
+`Scikit-Learn`
+
+---
+
+## 💧 Automated Water Tank Cleaning System
+
+IEEE Published Research
+
+Smart IoT-based cleaning system for large storage tanks.
+
+**Tech**
+
+`IoT`
+`Sensors`
+`Automation`
+
+---
+
+## 📱 Personal Portfolio
+
+Responsive portfolio showcasing projects, achievements and technical skills.
+
+---
+
+# 🏆 Certifications
+
+🥇 IBM Generative AI
+
+🥇 Google AI Learnathon
+
+🥇 NPTEL Cloud Computing
+
+🥇 NPTEL Computer Networks
+
+🥇 NPTEL Compiler Design
+
+🥇 RHCSA
+
+---
+
+# 🎖 Leadership & Community
+
+🌍 IEEE Computer Society
+
+- Student Volunteer
+- Website Team
+- Designer
+
+---
+
+🌍 IEEE Student Leader
+
+- Organized Technical Events
+- Design Lead
+- Community Engagement
+
+---
+
+🌍 Campus Ambassador
+
+- IEEE CS SYP Events
+- CSIS
+- Student Outreach
+
+---
+
+# 🏅 Achievements
+
+🏆 AI Engineer Intern — NIC
+
+🏆 Deep Learning Developer Intern
+
+🏆 IEEE Research Author
+
+🏆 Best Student Volunteer Award
+
+🏆 IEEE Student Leader
+
+🏆 NPTEL Elite Certifications
+
+🏆 Hackathon Participant
+
+🏆 Open Source Learner
+
+---
+
+# 📚 Areas of Interest
+
+```text
+Artificial Intelligence
+
+Machine Learning
+
+Cloud Computing
+
+Software Engineering
+
+System Design
+
+Mobile App Development
+
+Open Source
+
+Research
+
+Computer Vision
+
+Deep Learning
+```
+
+---
+
+# 💡 Quote I Believe In
+
+> *"Technology is most meaningful when it solves real problems and empowers people."*
+
+---

@@ -398,3 +398,176 @@ Deep Learning
 > *"Technology is most meaningful when it solves real problems and empowers people."*
 
 ---
+<!-- ========================================================= -->
+<!--                    PART 3                                 -->
+<!--          GitHub Analytics & Developer Dashboard           -->
+<!-- ========================================================= -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NITHIKASHREEMS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHIKASHREEMS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NITHIKASHREEMS&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NITHIKASHREEMS&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NITHIKASHREEMS&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# 📌 Developer Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NITHIKASHREEMS&theme=tokyonight"/>
+</p>
+
+---
+
+# 📊 Productivity Overview
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NITHIKASHREEMS&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NITHIKASHREEMS&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NITHIKASHREEMS&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Profile Summary
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NITHIKASHREEMS&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NITHIKASHREEMS&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 🌟 My Development Journey
+
+```text
+Started Programming
+        │
+        ▼
+Java & Python Foundations
+        │
+        ▼
+Data Structures & Algorithms
+        │
+        ▼
+Web Development
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+Deep Learning
+        │
+        ▼
+Cloud Computing
+        │
+        ▼
+AI Engineering
+        │
+        ▼
+Research & Innovation
+        │
+        ▼
+Full Stack Development
+        │
+        ▼
+Building Scalable Software
+```
+
+---
+
+# 🎯 2026 Goals
+
+- 🌟 Strengthen DSA and Problem Solving
+- ☁️ Earn Azure & AWS Cloud Certifications
+- 🤖 Build Production-Ready AI Applications
+- 📱 Publish Complete Full-Stack Projects
+- 🌍 Contribute to Open Source
+- 📚 Learn Advanced System Design
+- 🏆 Crack Product-Based Company Interviews
+- 💼 Secure a Software Engineer Role
+
+---
+
+# 📖 Currently Exploring
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Multi-Agent Systems
+- Cloud-Native Development
+- Microservices Architecture
+- Docker & Kubernetes
+- Scalable Backend Systems
+
+---
+
+# 💼 Open to Opportunities
+
+✔ Software Engineering Internships
+
+✔ AI / ML Engineering Roles
+
+✔ Full Stack Development
+
+✔ Open Source Contributions
+
+✔ Research Collaborations
+
+✔ Cloud Engineering
+
+---
+
+# 📌 Pinned Repository Suggestions
+
+⭐ ECOHARVEST
+
+⭐ CPU Anomaly Detection
+
+⭐ Water Tank Automation
+
+⭐ Portfolio Website
+
+⭐ Java DSA Repository
+
+⭐ Machine Learning Projects
+
+---
+
+# 💭 Developer Philosophy
+
+> **"Great software is not just written—it is designed with purpose, built with precision, and maintained with passion."**
+
+---

@@ -570,25 +570,6 @@ Published research paper in an IEEE International Conference, contributing to pr
 
 ---
 
-## 📌 Highlights
-
-✨ AI Engineer Intern at National Informatics Centre (NIC)
-
-🧠 Deep Learning Developer Intern at MSME Bhavan CITD Extension Centre
-
-📄 IEEE Research Author
-
-🏆 National-Level Winner – MyGov & MeitY
-
-🏆 National-Level Winner – MyGov & NCB
-
-🌍 IEEE Student Leader & Campus Ambassador
-
-🎯 CGPA: **9.10 / 10**
-
-🚀 Passionate about AI, Software Engineering, Full Stack Development and Sustainable Technology
-
----
 <!-- ========================================================== -->
 <!--                     CONNECT WITH ME                       -->
 <!-- ========================================================== -->
@@ -610,18 +591,6 @@ Published research paper in an IEEE International Conference, contributing to pr
 </a>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/NITHIKASHREEMS/NITHIKASHREEMS/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</p>
-
-> **Note:** The snake animation requires a GitHub Actions workflow. Configure it once, and it will update automatically.
 
 ---
 
